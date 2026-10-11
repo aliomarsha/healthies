@@ -1,0 +1,13 @@
+fastapi>=0.110
+uvicorn>=0.27
+sqlalchemy>=2.0
+pydantic>=2.5
+httpx>=0.27
+# model integration (Wassim's pipeline)
+scikit-learn>=1.3
+joblib>=1.3
+pandas>=2.0
+# tests
+pytest>=7
+# long-term risk profile via Dr7.ai (OpenAI-compatible gateway)
+openai>=1.40
